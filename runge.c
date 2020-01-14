@@ -1,5 +1,5 @@
 /* solver the equation of motion using 4th order runge kutta*/
-
+/* authors: guo fei, ai kaiming, HIT */
 #include "udf.h" 
 #include "sg_mem.h" 
 #include "dynamesh_tools.h" /* Header files  which enables both the definition of DEFINE macros and other ANSYS Fluent-provided macros and functions, and their inclusion in the compilation process*/
