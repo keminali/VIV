@@ -1,3 +1,4 @@
+%%%%%%%%%%% image 2 gif
 function filter_data=fft_filter(input_data,low_f,high_f,delt)
 %FFT_FILTER -- Discrete Fourier Transform Filter
 %    FILTER_DATA = FFT_FILTER (INPUT_DATA,LOW_F,HIGH_F,DELT)
